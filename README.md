@@ -7,4 +7,4 @@ python3 nscript.py
 <br>
 My social links > http://multilink.ga
 
-<ing src="https://i.imgur.com/8NCweHn.png">
+<img src="https://i.imgur.com/8NCweHn.png">
