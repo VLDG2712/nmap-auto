@@ -2,6 +2,8 @@
 Nmap Automation Script
 
 ```
+git clone https://github.com/VLDG2712/nmap-auto.git
+cd nmap-auto
 python3 nscript.py
 ```
 
